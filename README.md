@@ -25,5 +25,12 @@ This notebook will go over how to apply models to predict purchase amount using 
 
 <a id = 'summary'></a>
 ## Summary 
+After going through the different steps in the project, we ended up building several different regression models and used both forward and backward elimination to come up with an optimal models. Variable selection methods such as forward elimination do not have any native support from any of the Python libraries, so this was built in. 
+  
+  
+<a id = 'conc'></a>
+## Conclusion & Plans 
+In the future, I will continue to add new methods for the model building phase especially for model selection. I will also go more into depth on how to collect this type of data, since the data collection process can be complex. 
 
+  
   

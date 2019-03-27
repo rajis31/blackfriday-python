@@ -1,6 +1,6 @@
 # Linear Regression Models in Python
 ![image title](https://img.shields.io/badge/Python%20-v%203.7.0-brightgreen.svg) ![image title](https://img.shields.io/badge/Pandas-V%200.23.4-orange.svg) ![Image title](https://img.shields.io/badge/Sqlite-V%203.26.0-blue.svg) 
-![Image title](https://img.shields.io/badge/Numpy-V%201.15.1-purple.svg) ![Image title](https://img.shields.io/badge/Status-Work%20in%20Progress-brightgreen.svg)
+![Image title](https://img.shields.io/badge/Numpy-V%201.15.1-purple.svg) ![Image title](https://img.shields.io/badge/matplotlib-V%203.0.2-red.svg) ![Image title](https://img.shields.io/badge/Status-Work%20in%20Progress-brightgreen.svg)
 ### The Jupyter Notebook is available here to <a href="https://nbviewer.jupyter.org/github/rajis31/blackfriday-python/blob/master/BlackFriday%20Analysis.ipynb"> download</a>.
 
 <p align="center">
